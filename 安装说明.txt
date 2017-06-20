@@ -1,0 +1,10 @@
+
+安装说明:
+
+1) 使用序列号进行安装: "GF3S4-9089-7991320"
+2) 将破解补丁"PatchOriginPro.exe"拷贝到安装目录下(例如"C:\Program Files\OriginLab\Origin2017")，以管理员身份运行此补丁，直到看到 "Patch successfully (4 modifeds)"
+3) 可选： [help]菜单注册，注册序列号 "GRM-RVR-AR2"
+4) 新装系统一般导出图片无"demo"水印，如果之前安装过origin,那么导出图片有水印，解决办法如下:
+    拷贝去水印目录下面的 "origin.exe" 到安装目录，运行一次即可。（注意运行结果无任何提示,实际已经运行，导出图片不再有水印）
+
+5)  32/64位 Windows10系统正常运行，无水印。
